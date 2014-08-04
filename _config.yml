@@ -1,7 +1,7 @@
 # Site settings
 title: Matthew Knudsen
 email: mknudsen01@gmail.com
-description: "Hey, I'm Matthew. This site is just me thinking on the Internet, processing and commenting on whatever it is that I read and learn. I get by New Relic to learn how to code better, and I like reading about most of the things."
+description: "Hey, I'm Matthew. This site is just me thinking on the Internet, processing and commenting on whatever it is that I read and learn. I get paid by New Relic to learn how to code better, and I like reading about most of the things."
 baseurl: "/blog"
 url: "http://mknudsen01.github.com"
 twitter_username: matthewknudsen
